@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, programming, and technology.
 - 🌱 I’m currently learning advanced JavaScript frameworks and cloud computing.
 - 💞️ I’m looking to collaborate on open-source projects and innovative tech solutions.
-- 📫 How to reach me: [hbalodi775@gamil.com] or []
+- 📫 How to reach me: [hbalodi775@gamil.com] or [Himanshu Balodi]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to playing esports and gaming.
 
